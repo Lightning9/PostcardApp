@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Postcard
 //
-//  Created by Olivia Eakin on 4/9/15.
+//  Created by Michael McKee on 4/9/15.
 //  Copyright (c) 2015 LightningCastleEntertainment. All rights reserved.
 //
 
